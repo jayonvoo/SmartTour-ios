@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SSCellToPageView.tableView(_:cellForRowAt:):SSCellToPageView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SigtSeeingPage.tableView(_:didSelectRowAt:):SigtSeeingPage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FirstPage.tableView(_:cellForRowAt:):FirstPage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
